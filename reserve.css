@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(16, 15, 15);
+} 
+.rev-container{
+    background: url(./images/f135707f6ed36a42fdd7224e27233e8a.jpg)center/cover no-repeat;
+    height: 50vh;
+
+     position: relative;
+}
+.rev-text{
+    background-color:rgba(22, 20, 20, 0.589); 
+    position: absolute;
+    top: -2rem;
+    left: 0;
+    width: 100%;
+   height: 101%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 31px;
+    
+
+}
+.rev-text h1{
+    font-size: 30px;
+     color: #dcdcdc;
+     text-align: center;
+     font-family: 'Pacifico', cursive;
+      
+     
+     
+     
+    }
+  
