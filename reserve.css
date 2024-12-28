@@ -108,7 +108,7 @@ button:hover{
 .block-gird{
   display: grid;
   grid-template-columns: 1fr 1fr; 
-  /* margin: 192px; */
+  margin: 192px;
 
     
 }
