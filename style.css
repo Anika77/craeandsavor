@@ -21,8 +21,9 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 0px 25px;
+  gap: 23px;
 }
-
+  
 .logo {
   width: 120px;
 }
@@ -35,7 +36,7 @@ body {
 .nav {
   display: flex;
 }
-
+ 
 li,
 a {
   text-decoration: none;
@@ -43,7 +44,13 @@ a {
   font-weight: 400px;
   font-size: 16px;
 }
+.nav-flex{
+  display: flex;
+  justify-content: space-between;
+  gap: 23px;
+  width: 700px;
 
+}
 .nav_link {
   display: flex;
   align-items: center;
@@ -141,7 +148,7 @@ a:hover {
   flex-direction: column;
   margin: 0 60px;
   padding: 46px;
-  gap: 78px;
+  gap: 178px;
 }
 
 .menu-grid {

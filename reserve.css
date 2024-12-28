@@ -107,20 +107,20 @@ button:hover{
 /* opening-time */
 .block-gird{
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  margin: 192px;
-  height: 420px;
+  grid-template-columns: 1fr 1fr; 
+  /* margin: 192px; */
+
     
 }
 .time-tlb-img{
   background-image: url("./images/time2.jpg") ;
   background-size: cover;
-  position: relative;
+  /* position: relative; */
   
 }
 .info-time-right{
   background-color: rgba(28, 27, 27, 0.589);
-   position: absolute;
+   /* position: absolute; */
    top: 0;
    left: 0;
    width: 100%;
@@ -225,6 +225,11 @@ margin-top: 2rem;
   width: 17px;
 }
 
+
+.top-block{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
 
 /* footer */
 

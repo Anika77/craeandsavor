@@ -36,8 +36,16 @@ body {
   text-align: center;
 }
 .abt_contant {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+  /* display: grid; */
+  /* grid-template-columns: 1fr 1fr; */
+  /* height: 400px; */
+  padding: 50px;
+
+  gap: 50px;
+}
+.gird-top-block{
+  display: grid; 
+   grid-template-columns: 1fr 1fr; 
   /* height: 400px; */
   padding: 50px;
 
@@ -58,6 +66,15 @@ body {
   margin-top: 78px;
   width: 31rem;
 }
+.gird-bttom-block{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* height: 400px; */
+  padding: 50px;
+
+  gap: 50px;
+}
+
 .grid-abt-rigth h1 {
   font-size: 31px;
   color: #fdb629;
