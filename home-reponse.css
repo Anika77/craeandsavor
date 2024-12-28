@@ -217,7 +217,7 @@
     }
   }
 
-  @media (max-width: 390px){
+  @media (max-width: 400px){
     .hero_container {
         height: 59vh;
     }
