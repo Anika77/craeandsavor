@@ -216,3 +216,24 @@
         font-size: 9px;
     }
   }
+
+  @media (max-width: 390px){
+    .hero_container {
+        height: 59vh;
+    }
+
+    .text_cont h1 {
+        font-size: 25px;
+    }
+    .nav_cont {
+        padding-left: 48px;
+    }
+    .grid-content {
+        margin: 0px;
+        
+    }
+    .nav_cont {
+    
+        padding-left: 57px;
+    }
+  }
