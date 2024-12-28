@@ -14,10 +14,7 @@
           
             width: 382px;
         }
-    .abt_container  {
-        
-        height:  37vh;
-    }
+    
     .flex-b {
         display: flex;
         flex-wrap: wrap;
@@ -42,10 +39,7 @@
 @media (max-width: 991px) {
 
 
-    .abt_container  {
-        
-        height:  34vh;
-    }
+    
     .gird-top-block {
      
     

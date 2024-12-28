@@ -18,7 +18,7 @@
         }
     .cta-container {
        
-        height: 26vh;
+        height: 50vh;
         
         
     }
@@ -27,12 +27,7 @@
 }
 /* max-width: 826px */
 @media (max-width: 826px) {
-    .cta-container {
-       
-        height: 27vh;
-        
-        
-    }
+    
 
     .cta-text h1 {
         font-size: 38px;
@@ -85,13 +80,7 @@
 
 /* max-width: 674px */
 @media (max-width: 674px) {
-    .cta-container {
-       
-        height: 26vh;
-        
-        
-    }
-
+    
     .cta-text h1 {
         font-size: 33px;
         
@@ -141,14 +130,15 @@
     }
 }
 
+
+@media (max-width: 775px){
+    .cta-container {
+        height: 56vh;
+    }
+}
 /* max-width: 430px */
 @media (max-width: 430px) {
-    .cta-container {
-       
-        height: 20vh;
-        
-        
-    }
+    
 
     .cta-text h1 {
         font-size: 29px;

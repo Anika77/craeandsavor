@@ -4,7 +4,7 @@ body{
 }
  
 .cta-container {
-    background: url(/images/contact-img.jpg) center/cover no-repeat;
+    background: url(./images/contact-img.jpg) center/cover no-repeat;
     height: 50vh;
     position: relative;
     /* object-fit:fill; */
